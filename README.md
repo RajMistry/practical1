@@ -1,2 +1,2 @@
 # practical1
-raj mistry
+raj mistry FYBsc
